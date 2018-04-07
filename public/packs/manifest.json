@@ -1,7 +1,10 @@
 {
-  "app/Components/App/logo.png": "/packs/app/Components/App/logo-f8962aec0f792f05267d13274ffc53d7.png",
+  "app/Components/App/logo.png": "/packs/app/Components/App/logo-298b1e4f446bed09280f4eab605421b6.png",
   "application.css": "/packs/application-2789451966525f11611202e25dae4f99.css",
   "application.css.map": "/packs/application-2789451966525f11611202e25dae4f99.css.map",
-  "application.js": "/packs/application-ca85771a37de67ca7b32.js",
-  "application.js.map": "/packs/application-ca85771a37de67ca7b32.js.map"
+  "application.js": "/packs/application-b70d645388724c382282.js",
+  "application.js.map": "/packs/application-b70d645388724c382282.js.map",
+  "app/Components/App/discord.png": "/packs/app/Components/App/discord-aedea1e9d17cebbda35473f5d265836a.png",
+  "app/Components/Header/logo.png": "/packs/app/Components/Header/logo-298b1e4f446bed09280f4eab605421b6.png",
+  "app/Components/GetStarted/discord.png": "/packs/app/Components/GetStarted/discord-aedea1e9d17cebbda35473f5d265836a.png"
 }

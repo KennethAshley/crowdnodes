@@ -7,7 +7,6 @@ const GetStartedContainer = styled.div`
   margin-top: 48px;
 `;
 
-
 const DiscordInfo = styled.div`
   align-items: center;
   display: flex;

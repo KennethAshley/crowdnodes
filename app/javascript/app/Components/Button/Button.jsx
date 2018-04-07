@@ -28,7 +28,6 @@ const StyledButton = styled.button`
   }
 `;
 
-
 const Button = ({ children }) => (
   <StyledButton>
     { children }
@@ -36,3 +35,4 @@ const Button = ({ children }) => (
 );
 
 export default Button;
+  

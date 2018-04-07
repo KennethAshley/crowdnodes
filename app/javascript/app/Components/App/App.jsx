@@ -6,7 +6,6 @@ import Header from '../Header';
 import Hero from '../Hero';
 import GetStarted from '../GetStarted';
 
-
 const Container = styled.div`
   position: relative;
   padding: 0 20px;
